@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Farkle Bot</string>
+    <string name="descriptionText">1)  To begin a game, you must manually update the dice rolls with \'Update\' or roll randomly with \'Roll\'.  \n\n2)  After that, you may
+        click on Farkle Bot to get its suggested best move to help you out.  \n\n3)  Then you must choose your dice keeps (you may or may not use Farkle Bot\'s suggestions).
+        Select each number you would like to keep by clicking on it (the red boxes along the top - they will turn green when selected), and then clicking \'Finish Selection\'.  Once you\'ve done this, that button will turn green,
+        and you may roll again (with \'Roll\' or \'Update\'), or end your turn.  If you click on Farkle Bot again, he will probably say you farkled, because you haven\'t re-rolled.
+        \n\n4)  Once you are done with your turn, click \'End Turn\', and all the points in your subtotal will
+        be added to your total, as well as a reset on the roll count, and update on the turn count.  \n\nThe game of Farkle may be scored differently in different groups, so the
+        scoring is as follows:  50 for a 5, 100 for a 1, 100 * the number of the dice for a three of a kind, 1000 for four of a kind, 2000 for five of a kind, 1500 for a straight,
+        1500 for two triples, 1500 for three pairs, and 3000 for six of a kind. /n/n  Farkle Bot\'s main body is taken from https://www.target.com/p/hathaway-modifier-dice-cup-with-5-dice/-/A-53130941
+        and thus the original image should be credited to Target.</string>
+</resources>
